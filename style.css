@@ -1,0 +1,15 @@
+div.center {
+  align-content: center;
+}
+
+img {
+  border-radius: 20px;
+}
+
+body {
+  background-color: #D9f4ff;
+}
+
+.tall {
+  height: 86%;
+}
